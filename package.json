@@ -1,5 +1,5 @@
 {
-  "name": "cra-attempt",
+  "name": "electron-minesweeper",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -19,7 +19,7 @@
     "dist": "electron-builder"
   },
   "build": {
-    "appId": "com.jakefordyce.cra-attempt",
+    "appId": "com.jakefordyce.electron-minesweeper",
     "files": [
       "build/**/*",
       "node_modules/**/*"
