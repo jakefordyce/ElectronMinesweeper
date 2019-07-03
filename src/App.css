@@ -31,3 +31,28 @@
     transform: rotate(360deg);
   }
 }
+
+.field_row{
+  display: grid;
+}
+
+.cell_button{
+  width: 30px;
+  height: 30px;
+}
+
+.unrevealed{
+  background: #aaa;
+}
+
+.revealed{
+  background: #f5f5f5;
+}
+
+.flagged{
+  color: #a00;
+}
+
+.bomb{
+  background: #a00;
+}
